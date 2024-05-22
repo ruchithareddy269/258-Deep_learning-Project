@@ -20,7 +20,7 @@
 2. Classification using CNN-RNN Google Colab Link - https://colab.research.google.com/drive/1JGubXmCQ2eqUzen1ukzBt8BMqGNjSpqq?usp=sharing
 3. Classification using Transformers Google Colab Link - https://colab.research.google.com/drive/1ing3kEgz92I285EbG49d2wt-W9mg7unL?usp=sharing
 
-
+Report Link :https://docs.google.com/document/d/1acOjN-HY9sL7OkX8zWCHWSNcJgivP6h4kY_57kaMtdQ/edit?usp=sharing
 
 #### Run Project
 1. We deployed our project in Gradio
