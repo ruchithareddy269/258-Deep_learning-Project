@@ -16,9 +16,9 @@
 4. Video_and_PPT- folder contains the video explanation and PPT
 
 ### Google Colab Links 
-1. Classification using CNN Google Colab Link - 
-2. Classification using CNN-RNN Google Colab Link - 
-3. Classification using Transformers Google Colab Link -
+1. Classification using CNN Google Colab Link - https://colab.research.google.com/drive/1bjCnm57-C_LqtqzMxYQf8-U9MPAHcl_Z?usp=sharing
+2. Classification using CNN-RNN Google Colab Link - https://colab.research.google.com/drive/1JGubXmCQ2eqUzen1ukzBt8BMqGNjSpqq?usp=sharing
+3. Classification using Transformers Google Colab Link - https://colab.research.google.com/drive/1ing3kEgz92I285EbG49d2wt-W9mg7unL?usp=sharing
 
 
 
