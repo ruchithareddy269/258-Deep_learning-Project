@@ -1,4 +1,4 @@
-# CMPE-258-Deep-Learning-Project
+# CMPE-258-Deep-Learning-Project(Human Action Recognition)
 
 
 ### About Team
